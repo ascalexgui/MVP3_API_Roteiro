@@ -1,0 +1,1 @@
+API_KEY = "atualizar com o valor da chave enviado no arquivo senha.py"
